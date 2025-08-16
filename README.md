@@ -35,3 +35,7 @@ Modern look with custom colors and flat buttons.
 Hover effects for better user interaction.
 
 Responsive and user-friendly layout.
+👤 Author
+
+Bhakti Borhade (412)
+Project: CRUD Operation GUI – Skincare Database
