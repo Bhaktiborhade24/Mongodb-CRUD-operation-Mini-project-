@@ -40,4 +40,7 @@ Responsive and user-friendly layout.
 Bhakti Borhade (412)
 Project: CRUD Operation GUI – Skincare Database
 Output:
+<img width="1295" height="883" alt="Image" src="https://github.com/user-attachments/assets/555c27ce-05c6-4473-b007-e9dada700e3d" />
+
+<img width="1769" height="833" alt="Image" src="https://github.com/user-attachments/assets/212aa9b6-4ca4-4317-a588-ffec88a27b0c" />
 
