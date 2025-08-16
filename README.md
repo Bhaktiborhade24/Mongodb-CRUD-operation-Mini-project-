@@ -39,3 +39,5 @@ Responsive and user-friendly layout.
 
 Bhakti Borhade (412)
 Project: CRUD Operation GUI – Skincare Database
+Output:
+
